@@ -12,10 +12,12 @@ public class ChannelService {
     private ChannelRepository channelRepo;
 
     public boolean isValid(ChannelDto channel) {
-        return false;
+        // create validator of ChannelDto fields
+        return true;
     }
 
     public void createChannel(ChannelDto channel) {
+        // persist new Dto in the DB
 
     }
 }

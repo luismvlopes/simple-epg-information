@@ -16,6 +16,7 @@ public class Program {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private String id;
 
+    // associate with channel id entity
     private  String channelId;
 
     private String imageUrl;
