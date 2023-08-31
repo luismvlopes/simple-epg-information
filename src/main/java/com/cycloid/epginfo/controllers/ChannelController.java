@@ -5,8 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ChannelController {
 
-    // create a channel
-
-    // provides all channels
+    // TODO: Endpoint to create a channel
+    // TODO: Endpoint to provides all channels
 
 }

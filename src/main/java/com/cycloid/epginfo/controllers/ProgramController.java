@@ -5,14 +5,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ProgramController {
 
-    // create a program
-
-    // provide all programs by channel id
-
-    // provides program detail by id
-
-    // delete program by id
-
-    // update program by id
+    // TODO: Endpoint to create a program
+    // TODO: provide all programs by channel id
+    // TODO: Endpoint that provides program detail by id
+    // TODO: Endpoint to delete program by id
+    // TODO: Endpoint to update program by id
     
 }
